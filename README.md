@@ -1,31 +1,50 @@
-<h1 align="center">Hi, I'm Nick 👋</h1>
+<h1 align="center">Hi, I'm Nick</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Aspiring+AI+Engineer;Python+%26+LLM+Enthusiast;Building+Automation+%26+Compliance+Tools;Open+to+Collaborative+ML+Projects;NYC-based" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=520&lines=Applied+AI+Engineer;LLMs+%26+Automation;Python+%7C+APIs+%7C+Domain+AI;NYC-based" />
 </p>
 
-I'm an aspiring **AI Engineer** passionate about building practical AI solutions with Python, APIs, and large language models. I love turning ideas into working tools—especially in automation, compliance, and real-world applications like construction and healthcare.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
+</p>
 
-### 🔧 Skills & Tools
-- **Languages**: Python (core focus)
-- **AI/LLMs**: DeepSeek APIs, Anthropic Claude, prompt engineering
-- **Web/Apps**: FastAPI, Streamlit, basic Docker
-- **Other**: APIs integration, automation scripts, data processing
+I build LLM-powered systems in Python, mainly focused on automation and domain-specific problems.
 
-### 🚀 Featured Projects
-- **[ScopeSignal](https://github.com/NickAiNYC/ScopeSignal)**  
-  LLM-powered opportunity classifier for NYC construction projects using Anthropic Claude. Detects relevant bids from unstructured data—practical example of domain-specific AI.
+Most of my work is in regulated or high-noise environments like construction and healthcare, where requirements are ambiguous and tooling needs to be reliable and explainable.
 
-More projects in progress (automation agents, compliance engines)—excited to open-source more soon!
+I focus on shipping working systems, not demos.
 
-### 🌱 What I'm Learning & Building
-Since July 2025, I've been deep-diving into Python scripting for AI agents and workflows. These early experiments and scripts are starting to land on GitHub as I polish them—watch this space for more!
+---
 
-Passionate about collaborative teams where I can learn fast and contribute to innovative ML solutions.
+### Focus Areas
+- Applied LLM work with Claude and DeepSeek
+- Python-based automation and workflow tooling
+- Domain-driven systems for regulated environments
 
-### 📫 Let's Connect
-- Email: nickaltstein@gmail.com  
-- Website: [thrivai.ai](https://thrivai.ai)  
-- Open to junior AI/ML roles, collaborations, or feedback!
+---
 
-Thanks for stopping by! 🚀
+### Skills
+- Python
+- Anthropic Claude and DeepSeek APIs
+- FastAPI, Streamlit, Docker
+- API integration, data processing, automation pipelines
+
+---
+
+### Selected Project
+[ScopeSignal](https://github.com/NickAiNYC/ScopeSignal)  
+LLM-based classifier for NYC construction opportunities.  
+Parses unstructured bid notices and classifies project relevance as part of a real workflow.
+
+Additional tools focused on automation and compliance are in progress.
+
+---
+
+### Contact
+Email: nickaltstein@gmail.com  
+Website: https://thrivai.ai
+
+Open to junior or early-career AI/ML roles, contract work, and collaboration.
