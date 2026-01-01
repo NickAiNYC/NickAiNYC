@@ -1,50 +1,83 @@
-<h1 align="center">Hi, I'm Nick</h1>
+<div align="center">
+  <h1>Hi, I'm Nick 👋</h1>
+  
+  <p>
+    <a href="https://github.com/NickAiNYC">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=NickAiNYC.NickAiNYC" alt="Profile views" />
+    </a>
+    <a href="mailto:nick@thrivai.ai">
+      <img src="https://img.shields.io/badge/Email-nick@thrivai.ai-blue?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://thrivai.ai">
+      <img src="https://img.shields.io/badge/Website-thrivai.ai-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://github.com/NickAiNYC">
+      <img src="https://img.shields.io/github/followers/NickAiNYC?style=social" alt="GitHub followers" />
+    </a>
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=520&lines=Applied+AI+Engineer;LLMs+%26+Automation;Python+%7C+APIs+%7C+Domain+AI;NYC-based" />
-</p>
+  <p>
+    Brooklyn-based full-stack AI engineer building tools for NYC construction compliance & property management.
+  </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
-</p>
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=NickAiNYC&theme=radical&row=1&column=6&margin-h=15&margin-w=20" alt="GitHub Trophy" />
+</div>
 
-I build LLM-powered systems in Python, mainly focused on automation and domain-specific problems.
+### What I Build
+I create practical AI-powered SaaS tools that automate regulatory headaches (DOB/HPD violations, insurance audits, OSHA compliance) for contractors and property owners in NYC.
 
-Most of my work is in regulated or high-noise environments like construction and healthcare, where requirements are ambiguous and tooling needs to be reliable and explainable.
+- **Founder @ ThrivAi** — Shipped production apps: SentinelScope (construction compliance) & Violation Sentinel (property violations).
+- Focus: Reliable systems in high-noise, regulated environments using LLMs, computer vision, and modern full-stack tech.
+- Open to: Full-time roles, contracts, or collaboration in PropTech / ConTech / applied AI.
 
-I focus on shipping working systems, not demos.
+### Key Projects
+- **[SentinelScope](https://github.com/NickAiNYC/sentinel-scope)**  
+  AI compliance automation for NYC construction. Uses DeepSeek Vision for photo classification (~90% accuracy in tests), NYC Open Data integration, multi-tenant Supabase, PDF reports.  
+  [Live Demo](https://sentinelscope.streamlit.app)
 
----
+- **[ScopeSignal](https://github.com/NickAiNYC/ScopeSignal)**  
+  LLM-based classifier for NYC construction bid notices (Claude/DeepSeek).
 
-### Focus Areas
-- Applied LLM work with Claude and DeepSeek
-- Python-based automation and workflow tooling
-- Domain-driven systems for regulated environments
+- Violation Sentinel (internal repo — coming soon public)
 
----
+### Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black" alt="Supabase" />
+  <img src="https://img.shields.io/badge/DeepSeek-000000?style=flat&logoColor=white" alt="DeepSeek" /> <!-- custom if needed -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+</div>
 
-### Skills
-- Python
-- Anthropic Claude and DeepSeek APIs
-- FastAPI, Streamlit, Docker
-- API integration, data processing, automation pipelines
+### GitHub Activity
 
----
+<div align="center">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NickAiNYC&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickAiNYC&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+</div>
 
-### Selected Project
-[ScopeSignal](https://github.com/NickAiNYC/ScopeSignal)  
-LLM-based classifier for NYC construction opportunities.  
-Parses unstructured bid notices and classifies project relevance as part of a real workflow.
+<div align="center">
+  <!-- Streak Stats (optional extra) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickAiNYC&theme=radical&hide_border=true" alt="Contribution Streak" />
+</div>
 
-Additional tools focused on automation and compliance are in progress.
+### Background
+- ~10 years B2B operations experience (NYC account management, process automation)  
+- Computer Science degree (BMCC, CUNY)  
+- Languages: English (native), Russian (native), Spanish (conversational)
 
----
+Open to work — especially PropTech, ConTech, compliance automation, or applied AI roles in regulated spaces.
 
-### Contact
-Email: nickaltstein@gmail.com  
-Website: https://thrivai.ai
-
-Open to junior or early-career AI/ML roles, contract work, and collaboration.
+Reach out:  
+📧 nick@thrivai.ai | nickaltstein@gmail.com  
+🌐 https://thrivai.ai  
+🐙 https://github.com/NickAiNYC
