@@ -18,9 +18,7 @@
 
 # 🚀 Brooklyn AI Engineer | LangGraph + Vision | $1.49M saved
 
-**🧠 "The Flora-for-Compliance"**
-
-> Cut 80h → 2min compliance workflows. Built for non-technical contractors what Flora built for creatives.
+**Cut 80h → 2min compliance workflows for NYC construction**
 
 I architect **visual, node-based AI workflows** for regulated industries, translating messy real-world processes into production-grade agentic systems. My expertise is **LangGraph-powered orchestration**, multi-modal reasoning (Vision/LLMs), and deterministic testing for high-stakes environments.
 
@@ -28,7 +26,7 @@ I architect **visual, node-based AI workflows** for regulated industries, transl
 
 ## 🏗️ Key Projects (Node-Based Agentic Workflows)
 
-### **ConComplyAi** *(Flora-for-Law)*
+### **ConComplyAi**
 Production-grade, multi-agent compliance engine for NYC construction. Implements **LangGraph StateGraph** for node-based workflows, deterministic mocks, circuit breakers, and full observability. **Modeled to save $1.49M per critical violation**.
 
 ▶️ **Live Demo:** [sentinelscope.streamlit.app](https://sentinelscope.streamlit.app/) | **Code:** [github.com/NickAiNYC/ConComplyAi](https://github.com/NickAiNYC/ConComplyAi)
@@ -62,7 +60,7 @@ LLM-powered classifier for NYC construction bid notices (Claude/DeepSeek), demon
 ## 🤝 Let's Connect
 
 📧 **Email:** [nick@thrivai.ai](mailto:nick@thrivai.ai)  
-🌐 **Website:** [thrivai.ai](https://thrivai.ai/)  
+🌐 **Website:** [thrivai.ai](https://thrivai.ai)  
 🐙 **GitHub:** [NickAiNYC](https://github.com/NickAiNYC)
 
 ---
