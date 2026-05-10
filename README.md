@@ -30,7 +30,7 @@
 <!--                   FLAGSHIP PROJECT                      -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## ⚡ mirror-chamber
+## ⚡ Mirror-Chamber
 
 <p><em>Six adversarial AI critics. One command. One verdict.</em></p>
 
