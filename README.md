@@ -1,62 +1,91 @@
 <div align="center">
 
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/v3/api/1?type=wave&color=0A66C2&height=140&section=header&text=Nick%20Ai&fontSize=48&fontAlignY=38&animation=twinkling&stroke=1&strokeColor=ffffff" width="100%"/>
+  <!-- Hero Header -->
+  <img src="https://capsule-render.vercel.app/v3/api/1?type=soft&color=1E3A8A&height=220&section=header&text=Nick%20Ai&fontSize=52&fontAlignY=38&animation=twinkling&stroke=2&strokeColor=60A5FA" width="100%"/>
 
-  <h3>AI Systems Engineer • NYC</h3>
-  <p><strong>Building adversarial intelligence layers for AI video production & governance</strong></p>
+  <h2>AI Systems Engineer • New York City</h2>
+  <p><strong>Building adversarial intelligence & governance infrastructure for AI-native workflows</strong></p>
 
-  <!-- Status -->
-  <img src="https://img.shields.io/badge/Currently_Shipping-mirror--chamber-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Agentic_Review_%2B_Compliance-7C3AED?style=for-the-badge" />
+  <!-- Status Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Shipping-mirror--chamber-0A66C2?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Agentic_Review_%2B_AI_Governance-7C3AED?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Currently_Exploring-Scrutexity-10B981?style=for-the-badge" />
+  </p>
+
+  <br>
+
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=720&lines=Pre-render+adversarial+review;Multi-model+critique+systems;Schema-first+AI+infrastructure;EU+AI+Act+compliance+layers;Building+for+the+regulated+future" />
 
   <br><br>
 
-  <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=60A5FA&center=true&vCenter=true&width=600&lines=Pre-render+quality+gates;Multi-model+adversarial+critique;Schema-first+AI+video+infrastructure;EU+AI+Act+compliance+by+design" />
-
-  <br><br>
-
-  <!-- Current Project -->
+  <!-- Current Flagship -->
   <h2>🌟 mirror-chamber</h2>
-  <p><strong>Six ruthless AI critics in one CLI.</strong> DeepSeek + Qwen + Kimi routing • Visible debate transcripts • Open schema moat</p>
+  <p><strong>Six ruthless AI critics in one command.</strong><br>
+  DeepSeek + Qwen + Kimi orchestration • Visible debate transcripts • Open schema moat</p>
 
   <a href="https://github.com/NickAiNYC/mirror-chamber">
-    <img src="https://img.shields.io/github/stars/NickAiNYC/mirror-chamber?style=social" />
+    <img src="https://img.shields.io/github/stars/NickAiNYC/mirror-chamber?color=0A66C2&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <br><br>
 
-  <!-- Tech Stack -->
-  <h3>Core Stack</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/LiteLLM-4285F4?logo=google&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?logo=langchain&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/DeepSeek-4B0082?logo=brain&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Higgsfield_Seedance-00FFAA?logo=video&logoColor=black&style=flat-square" />
+  <!-- Projects Grid -->
+  <h3>Featured Work</h3>
 
-  <br><br>
-
-  <!-- Animated Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NickAiNYC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickAiNYC&theme=tokyonight&hide_border=true" height="160" />
-
-  <br><br>
-
-  ### Featured Work
-  - **[mirror-chamber](https://github.com/NickAiNYC/mirror-chamber)** — Adversarial AI script review CLI
-  - **Sentinel-Scope** — AI compliance automation for NYC PropTech
-  - **ViolationSentinel** — Real-time NYC violation intelligence platform
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/NickAiNYC/mirror-chamber"><strong>mirror-chamber</strong></a><br>
+        <small>Adversarial AI script reviewer</small>
+      </td>
+      <td align="center">
+        <a href="https://scrutexity.com"><strong>Scrutexity</strong></a><br>
+        <small>AI Revenue + Governance for premium clinics</small>
+      </td>
+      <td align="center">
+        <strong>Sentinel-Scope</strong><br>
+        <small>NYC PropTech compliance automation</small>
+      </td>
+    </tr>
+  </table>
 
   <br>
 
-  **Open to** deep conversations on agentic systems, AI governance, and high-quality video agents.
+  <!-- Tech Stack -->
+  <h3>Core Arsenal</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/LiteLLM-4285F4?logo=google&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/LangGraph-FF6B6B?logo=langchain&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/DeepSeek-4B0082?logo=brain&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Higgsfield-00FFAA?logo=video&logoColor=black&style=flat-square" />
+    <img src="https://img.shields.io/badge/Pydantic-FF6B6B?logo=fastapi&logoColor=white&style=flat-square" />
+  </p>
 
-  [mirror-chamber.dev](https://mirror-chamber.dev) • [X](https://x.com/yourhandle) • [LinkedIn](https://linkedin.com/in/yourprofile)
+  <br>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NickAiNYC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NickAiNYC&theme=tokyonight&hide_border=true" height="165" />
+
+  <br><br>
+
+  <p>
+    <strong>Open to</strong> serious conversations on agentic systems, AI governance, cinematic video agents, and regulated AI infrastructure.
+  </p>
+
+  <p>
+    <a href="https://mirror-chamber.dev">mirror-chamber.dev</a> • 
+    <a href="https://scrutexity.com">scrutexity.com</a> • 
+    <a href="https://x.com/yourhandle">X</a> • 
+    <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+  </p>
 
 </div>
 
-<!-- Subtle bottom animation -->
+<!-- Footer Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/v3/api/1?type=slice&color=6366F1&height=60&section=footer&text=Building%20for%202026&fontSize=14&animation=blinking" width="100%"/>
+  <img src="https://capsule-render.vercel.app/v3/api/1?type=slice&color=1E40AF&height=80&section=footer&text=2026%20Builder&fontSize=14&animation=blinking" width="100%"/>
 </div>
