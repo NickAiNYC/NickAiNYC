@@ -25,14 +25,41 @@
 
 <br/>
 
-<p>
-  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/badge/INFINI-Agent%20Portability-30363D?style=for-the-badge&labelColor=24292F&logo=github&logoColor=white" alt="INFINI Agent Portability" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Mission-Open%20Standard-30363D?style=for-the-badge&labelColor=24292F" alt="Mission Open Standard" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Governed%20AI-30363D?style=for-the-badge&labelColor=24292F" alt="Focus Governed AI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Based-New%20York-30363D?style=for-the-badge&labelColor=24292F" alt="Based New York" />
+<p align="center">
+  <!-- INFINI Badge with gradient glow -->
+  <a href="https://github.com/NickAiNYC/infini">
+    <img src="https://img.shields.io/badge/✦%20INFINI-Portable%20Agent%20Infrastructure-25E587?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white&color=25E587&color=25E587" alt="INFINI Portable Agent Infrastructure" />
+  </a>
+  &nbsp;&nbsp;
+  
+  <!-- Mission Badge -->
+  <img src="https://img.shields.io/badge/🎯%20Mission-Open%20Standard-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Mission Open Standard" />
+  &nbsp;&nbsp;
+  
+  <!-- Focus Badge -->
+  <img src="https://img.shields.io/badge/⚡%20Focus-Governed%20AI-7DD3FC?style=for-the-badge&labelColor=0D1117" alt="Focus Governed AI" />
+  &nbsp;&nbsp;
+  
+  <!-- Location Badge -->
+  <img src="https://img.shields.io/badge/📍%20Based-New%20York-25E587?style=for-the-badge&labelColor=0D1117" alt="Based New York" />
+  &nbsp;&nbsp;
+  
+  <!-- Status Badge -->
+  <img src="https://img.shields.io/badge/🚀%20Status-Production%20Ready-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Status Production Ready" />
+</p>
+
+<p align="center">
+  <sub>
+    <strong>↓</strong> Spec-first · Verifiable · Replayable · Open <strong>↓</strong>
+  </sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/stars/NickAiNYC/infini?style=social&label=Star%20on%20GitHub" alt="GitHub stars" /></a>
+  &nbsp;&nbsp;
+  <a href="https://pypi.org/project/infini-cli/"><img src="https://img.shields.io/pypi/v/infini-cli?style=social&label=PyPI" alt="PyPI version" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/NickAiNYC/infini/actions"><img src="https://img.shields.io/github/actions/workflow/status/NickAiNYC/infini/ci.yml?style=social&label=CI" alt="CI status" /></a>
 </p>
 
 
