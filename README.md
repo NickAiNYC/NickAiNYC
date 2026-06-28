@@ -25,9 +25,16 @@
 
 <br/>
 
-<a href="https://github.com/NickAiNYC/infini">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2300&pause=650&color=25E587&center=true&vCenter=true&width=1000&lines=INFINI+%E2%80%94+the+open+standard+for+agent+portability.;Write+agent+logic+once.+Run+it+anywhere.;Loopfiles.+Adapters.+Traces.+Replay.+Observatory.;Shipping+portable%2C+inspectable+AI+systems.;Certified+adapters.+Community+registry.+Open+spec.;June+2026%3A+production-ready+infrastructure." alt="Typing animation" />
-</a>
+<p>
+  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/badge/INFINI-Agent%20Portability-30363D?style=for-the-badge&labelColor=24292F&logo=github&logoColor=white" alt="INFINI Agent Portability" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Mission-Open%20Standard-30363D?style=for-the-badge&labelColor=24292F" alt="Mission Open Standard" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Governed%20AI-30363D?style=for-the-badge&labelColor=24292F" alt="Focus Governed AI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based-New%20York-30363D?style=for-the-badge&labelColor=24292F" alt="Based New York" />
+</p>
+
 
 <br/><br/>
 
