@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         JUNE 2026 PROFILE                          -->
+<!--                    NICK AI · JUNE 2026 PROFILE                     -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <picture>
@@ -12,26 +12,28 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:00D4FF,50:25E587,100:0D1117&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:00D4FF,50:25E587,100:0D1117&section=header" width="100%" alt="blue green divider" />
 
-# Nick Ai
+<br/><br/>
 
-### Builder of portable agent infrastructure, governed AI systems, and open-source loops.
+<img src="assets/nickai-tag.png" alt="Nick Ai" width="560" />
+
+### Portable Agent Infrastructure · Governed AI Systems · Open-Source Loops
 
 <a href="https://github.com/NickAiNYC/infini">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2300&pause=650&color=25E587&center=true&vCenter=true&width=1000&lines=Building+INFINI+%E2%80%94+the+open+standard+for+agent+portability.;Loopfiles.+Adapters.+Traces.+Replay.+Observatory.;Write+agent+logic+once.+Run+it+anywhere.;June+2026%3A+shipping+portable%2C+inspectable+AI+systems." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2300&pause=650&color=25E587&center=true&vCenter=true&width=1000&lines=Building+INFINI+%E2%80%94+the+open+standard+for+agent+portability.;Loopfiles.+Adapters.+Traces.+Replay.+Observatory.;Write+agent+logic+once.+Run+it+anywhere.;June+2026%3A+shipping+portable%2C+inspectable+AI+systems." alt="Typing animation" />
 </a>
 
 <br/><br/>
 
 <p>
-  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/badge/Featured-INFINI-25E587?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/badge/Featured-INFINI-25E587?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Featured INFINI" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Agent%20Portability-00D4FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Focus-Agent%20Portability-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Focus Agent Portability" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Discipline-Governed%20AI-7DD3FC?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Discipline-Governed%20AI-7DD3FC?style=for-the-badge&labelColor=0D1117" alt="Discipline Governed AI" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Based-NYC-25E587?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Based-NYC-25E587?style=for-the-badge&labelColor=0D1117" alt="Based NYC" />
 </p>
 
 <br/>
@@ -42,35 +44,56 @@
 
 ---
 
-## Current Focus: INFINI
+## Professional Snapshot
+
+I build standards-shaped AI infrastructure: portable agent workflows, verifiable execution traces, adapter ecosystems, and governed systems that can be inspected when something breaks.
+
+<table>
+  <tr>
+    <td width="25%" valign="top"><strong>Current build</strong></td>
+    <td valign="top"><a href="https://github.com/NickAiNYC/infini"><strong>INFINI</strong></a> — an open standard for portable, replayable, inspectable agent loops.</td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>Core thesis</strong></td>
+    <td valign="top">Agent logic should not be trapped inside one framework, SDK, prompt chain, or vendor runtime.</td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>System style</strong></td>
+    <td valign="top">Spec-first architecture, verification loops, trace replay, adapter contracts, and contributor-friendly docs.</td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>Operating lane</strong></td>
+    <td valign="top">Open-source agent infrastructure, governed AI, claim intelligence, AI visibility, and trust-sensitive automation.</td>
+  </tr>
+</table>
+
+---
+
+## Featured Work: INFINI
 
 > **Agents need their Docker moment.**
 >
-> INFINI is an open standard for agent portability: define autonomous work as a portable Loopfile, execute it through different runtimes, verify the result, and replay the trace when something breaks.
+> INFINI turns autonomous work into a portable Loopfile: define the loop once, execute it through different runtimes, verify the result, and replay the trace when the system needs to be debugged.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Why it matters</h3>
-      <p>Most agent logic is trapped inside frameworks, SDKs, prompts, and brittle orchestration code. INFINI moves the logic into a declarative spec so the same workflow can travel across engines.</p>
+      <h3>What INFINI standardizes</h3>
       <ul>
-        <li><strong>Portable logic</strong> — one Loopfile, multiple runtimes.</li>
-        <li><strong>Inspectable execution</strong> — standardized traces instead of black-box logs.</li>
-        <li><strong>Replayable runs</strong> — debug the loop, not just the error.</li>
-        <li><strong>Adapter ecosystem</strong> — Hermes, OpenClaw, and future community runtimes.</li>
+        <li><strong>Loopfiles</strong> — declarative YAML for agents, steps, budgets, verification, and stop conditions.</li>
+        <li><strong>Adapters</strong> — a clean bridge between the Loopfile spec and execution engines.</li>
+        <li><strong>Traces</strong> — structured records of what happened, what changed, and why.</li>
+        <li><strong>Replay</strong> — inspect failures at the loop level, not only the log level.</li>
+        <li><strong>Observatory</strong> — a visual layer for runs, steps, verification, and agent behavior.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>Quickstart</h3>
-
-```bash
-pip install infini-cli
+      <pre><code class="language-bash">pip install infini-cli
 infini validate loop.yaml
 infini run examples/golden-research-assistant/research-loop.yaml --mock
-infini ui runs/latest/run.json
-```
-
-<sub>Validate the spec. Run the loop. Inspect the trace. Replay the system.</sub>
+infini ui runs/latest/run.json</code></pre>
+      <p><sub>Validate the spec. Run the loop. Inspect the trace. Replay the system.</sub></p>
     </td>
   </tr>
 </table>
@@ -81,15 +104,15 @@ infini ui runs/latest/run.json
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=NickAiNYC&repo=infini&theme=github_dark&hide_border=true&title_color=25E587&icon_color=00D4FF&text_color=C9D1D9&bg_color=0D1117" alt="Pinned INFINI repository" />
 </a>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/stars/NickAiNYC/infini?style=for-the-badge&label=Stars&color=25E587&labelColor=0D1117&logo=github" /></a>
+<a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/stars/NickAiNYC/infini?style=for-the-badge&label=Stars&color=25E587&labelColor=0D1117&logo=github" alt="INFINI stars" /></a>
 &nbsp;
-<a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/forks/NickAiNYC/infini?style=for-the-badge&label=Forks&color=00D4FF&labelColor=0D1117&logo=github" /></a>
+<a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/forks/NickAiNYC/infini?style=for-the-badge&label=Forks&color=00D4FF&labelColor=0D1117&logo=github" alt="INFINI forks" /></a>
 &nbsp;
-<a href="https://github.com/NickAiNYC/infini/blob/main/spec/loopfile-v1.md"><img src="https://img.shields.io/badge/Spec-Loopfile%20v1.0-25E587?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://github.com/NickAiNYC/infini/blob/main/spec/loopfile-v1.md"><img src="https://img.shields.io/badge/Spec-Loopfile%20v1.0-25E587?style=for-the-badge&labelColor=0D1117" alt="Loopfile v1.0" /></a>
 &nbsp;
-<a href="https://github.com/NickAiNYC/infini/tree/main/registry/certifications"><img src="https://img.shields.io/badge/Adapters-Hermes%20%2B%20OpenClaw-00D4FF?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://github.com/NickAiNYC/infini/tree/main/registry"><img src="https://img.shields.io/badge/Registry-Open%20Loops-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Open loop registry" /></a>
 
 </div>
 
@@ -134,29 +157,29 @@ Loopfile → Engine → Adapter → Execution → Trace → Replay → Observato
   <tr>
     <td width="33%" valign="top">
       <h3>Open Standards</h3>
-      <p>Specs, schemas, conformance tests, adapters, certification paths, and contributor-friendly docs.</p>
+      <p>Specs, schemas, conformance tests, certification paths, adapter SDKs, registries, and documentation that other builders can extend.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Governed Agents</h3>
-      <p>Agent loops with verification, policy boundaries, audit trails, replay, budget controls, and escalation logic.</p>
+      <p>Agent loops with verification, policy boundaries, audit trails, replay, budget controls, escalation logic, and failure visibility.</p>
     </td>
     <td width="33%" valign="top">
       <h3>Trust Infrastructure</h3>
-      <p>Claim intelligence, visibility systems, proof assets, and AI workflows for regulated or trust-sensitive markets.</p>
+      <p>Claim intelligence, AI visibility systems, proof assets, and workflows for markets where public claims need evidence.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Featured Systems
+## Selected Systems
 
-| Project | What it is | Why it exists |
+| Project | Role | What it demonstrates |
 | --- | --- | --- |
-| **[INFINI](https://github.com/NickAiNYC/infini)** | Open standard for portable, inspectable agent loops. | To make autonomous work reusable across frameworks. |
-| **[Scrutexity](https://scrutexity.com)** | Governed growth infrastructure for claim-sensitive businesses. | To help teams prove claims, improve visibility, and recover demand safely. |
-| **AuditGPT / Claim Intelligence** | Claim review and proof-gap detection layer. | To turn risky public claims into safer, evidence-backed assets. |
-| **Contento by Scrutexity** | Governed content workflow. | To produce content from approved claims instead of unsupported marketing guesses. |
+| **[INFINI](https://github.com/NickAiNYC/infini)** | Open-source standard | Portable agent loops, adapter contracts, trace replay, loop registry, and inspectable execution. |
+| **[Scrutexity](https://scrutexity.com)** | Founder / builder | Governed growth infrastructure for claim-sensitive businesses. |
+| **AuditGPT / Claim Intelligence** | Product system | Claim review, proof-gap detection, safer framing, and evidence-backed public assets. |
+| **Contento by Scrutexity** | Workflow system | Governed content creation from approved claims instead of unsupported marketing guesses. |
 
 ---
 
@@ -174,22 +197,41 @@ I care about systems that are understandable under pressure: when a demo fails, 
 
 ---
 
-## Stack
+## Technical Profile
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,nextjs,react,fastapi,nodejs,postgres,redis,sqlite,docker,git,github,bash,linux,cloudflare,vercel&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,typescript,nextjs,react,fastapi,nodejs,postgres,redis,sqlite,docker,git,github,bash,linux,cloudflare,vercel&theme=dark&perline=8" alt="Technical stack icons" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Agent%20Loops-25E587?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Loopfile%20YAML-00D4FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Adapter%20SDK-7DD3FC?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Trace%20Replay-25E587?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Observatory-00D4FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Governance%20as%20Code-7DD3FC?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Agent%20Loops-25E587?style=flat-square&labelColor=0D1117" alt="Agent Loops" />
+<img src="https://img.shields.io/badge/Loopfile%20YAML-00D4FF?style=flat-square&labelColor=0D1117" alt="Loopfile YAML" />
+<img src="https://img.shields.io/badge/Adapter%20SDK-7DD3FC?style=flat-square&labelColor=0D1117" alt="Adapter SDK" />
+<img src="https://img.shields.io/badge/Trace%20Replay-25E587?style=flat-square&labelColor=0D1117" alt="Trace Replay" />
+<img src="https://img.shields.io/badge/Observatory-00D4FF?style=flat-square&labelColor=0D1117" alt="Observatory" />
+<img src="https://img.shields.io/badge/Governance%20as%20Code-7DD3FC?style=flat-square&labelColor=0D1117" alt="Governance as Code" />
 
 </div>
+
+<table>
+  <tr>
+    <td width="25%" valign="top"><strong>Languages</strong></td>
+    <td valign="top">Python, TypeScript, JavaScript, YAML, Bash</td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>Application stack</strong></td>
+    <td valign="top">Next.js, React, FastAPI, Node.js, Postgres, Redis, SQLite</td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>AI systems</strong></td>
+    <td valign="top">Agent loops, verification patterns, prompt systems, trace design, adapters, replay, governance controls</td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><strong>Build style</strong></td>
+    <td valign="top">Readable specs, working demos, tight docs, clean contribution paths, and practical operator workflows</td>
+  </tr>
+</table>
 
 ---
 
@@ -197,13 +239,13 @@ I care about systems that are understandable under pressure: when a demo fails, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NickAiNYC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=25E587&icon_color=00D4FF&text_color=C9D1D9&ring_color=25E587" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=NickAiNYC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=25E587&icon_color=00D4FF&text_color=C9D1D9&ring_color=25E587" height="170" alt="GitHub stats" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NickAiNYC&theme=github-dark-blue&hide_border=true&background=0D1117&ring=25E587&fire=00D4FF&currStreakLabel=25E587&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NickAiNYC&theme=github-dark-blue&hide_border=true&background=0D1117&ring=25E587&fire=00D4FF&currStreakLabel=25E587&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" height="170" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NickAiNYC&bg_color=0D1117&color=25E587&line=00D4FF&point=FFFFFF&area=true&area_color=25E587&hide_border=true&custom_title=June%202026%20Shipping%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NickAiNYC&bg_color=0D1117&color=25E587&line=00D4FF&point=FFFFFF&area=true&area_color=25E587&hide_border=true&custom_title=June%202026%20Shipping%20Graph" width="100%" alt="GitHub activity graph" />
 
 </div>
 
@@ -226,8 +268,8 @@ I care about systems that are understandable under pressure: when a demo fails, 
 ## Now Building
 
 - **INFINI reference runtime** — end-to-end Loopfile execution, trace generation, replay, and Observatory.
-- **Adapter certification** — conformance tests for Hermes, OpenClaw, and community frameworks.
-- **Loop registry** — a contribution layer for reusable loops, skills, patterns, and benchmark cases.
+- **Adapter certification** — conformance tests for Hermes, OpenClaw, and future community frameworks.
+- **Loop registry** — reusable loops, skills, patterns, and benchmark cases for open-source contributors.
 - **Governed growth systems** — Scrutexity, AuditGPT, Contento, AI visibility, and recovery workflows.
 
 ---
@@ -237,21 +279,21 @@ I care about systems that are understandable under pressure: when a demo fails, 
 ### Building the standard layer for autonomous work.
 
 <p>
-  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/badge/Star%20INFINI-25E587?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/badge/Star%20INFINI-25E587?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Star INFINI" /></a>
   &nbsp;
-  <a href="https://scrutexity.com"><img src="https://img.shields.io/badge/Scrutexity-00D4FF?style=for-the-badge&labelColor=0D1117&logo=safari&logoColor=white" /></a>
+  <a href="https://scrutexity.com"><img src="https://img.shields.io/badge/Scrutexity-00D4FF?style=for-the-badge&labelColor=0D1117&logo=safari&logoColor=white" alt="Scrutexity" /></a>
   &nbsp;
-  <a href="https://x.com/nickaltstein"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&labelColor=0D1117&logo=x&logoColor=white" /></a>
+  <a href="https://x.com/nickaltstein"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&labelColor=0D1117&logo=x&logoColor=white" alt="X" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/nicklatstein"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nicklatstein"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=NickAiNYC&style=for-the-badge&color=25E587&labelColor=0D1117&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=NickAiNYC&style=for-the-badge&color=25E587&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:00D4FF,70:25E587,100:0D1117&height=120&section=footer&text=Portable%20Agents%20%E2%80%A2%20Inspectable%20Loops%20%E2%80%A2%20Open%20Standards&fontSize=18&fontColor=C9D1D9&fontAlignY=70&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:00D4FF,70:25E587,100:0D1117&height=120&section=footer&text=Portable%20Agents%20%E2%80%A2%20Inspectable%20Loops%20%E2%80%A2%20Open%20Standards&fontSize=18&fontColor=C9D1D9&fontAlignY=70&animation=fadeIn" width="100%" alt="footer banner" />
 
 </div>
