@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--              NICKNYC · THE INFRASTRUCTURE LAYER                    -->
+<!--              NICK AI · THE INFRASTRUCTURE LAYER                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <picture>
@@ -12,12 +12,17 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:00D4FF,50:25E587,100:0D1117&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:30363D,50:238636,100:0D1117&section=header" width="100%" alt="divider" />
 
 <br/>
 
-<!-- NICKNYC raised closer to the banner by removing the extra vertical break -->
-<img src="assets/nickai-tag.png" alt="NICKNYC" width="560" />
+<!-- Raised closer to the banner -->
+<img src="assets/nickai-tag.png" alt="NICKNYC" width="540" />
+
+<br/>
+<br/>
+
+<img src="https://img.shields.io/badge/%E2%88%9E-INFINI-161B22?style=for-the-badge&labelColor=0D1117&color=161B22" alt="INFINI logo" />
 
 ### Building the Standard Layer for Autonomous Work
 
@@ -25,65 +30,37 @@
 
 <br/>
 
-<p align="center">
-  <!-- INFINI Badge with gradient glow -->
-  <a href="https://github.com/NickAiNYC/infini">
-    <img src="https://img.shields.io/badge/✦%20INFINI-Portable%20Agent%20Infrastructure-25E587?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white&color=25E587&color=25E587" alt="INFINI Portable Agent Infrastructure" />
-  </a>
-  &nbsp;&nbsp;
-  
-  <!-- Mission Badge -->
-  <img src="https://img.shields.io/badge/🎯%20Mission-Open%20Standard-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Mission Open Standard" />
-  &nbsp;&nbsp;
-  
-  <!-- Focus Badge -->
-  <img src="https://img.shields.io/badge/⚡%20Focus-Governed%20AI-7DD3FC?style=for-the-badge&labelColor=0D1117" alt="Focus Governed AI" />
-  &nbsp;&nbsp;
-  
-  <!-- Location Badge -->
-  <img src="https://img.shields.io/badge/📍%20Based-New%20York-25E587?style=for-the-badge&labelColor=0D1117" alt="Based New York" />
-  &nbsp;&nbsp;
-  
-  <!-- Status Badge -->
-  <img src="https://img.shields.io/badge/🚀%20Status-Production%20Ready-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="Status Production Ready" />
+<a href="https://github.com/NickAiNYC/infini">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2600&pause=1200&color=C9D1D9&center=true&vCenter=true&width=920&lines=Open+standard+for+agent+portability.;Write+agent+logic+once.+Run+it+anywhere.;Validate.+Trace.+Replay.;Spec-first+infrastructure+for+autonomous+work." alt="Professional typing banner" />
+</a>
+
+<br/><br/>
+
+<p>
+  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/badge/Flagship-INFINI-30363D?style=for-the-badge&labelColor=161B22&logo=github&logoColor=white" alt="Flagship INFINI" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Agent%20Portability-30363D?style=for-the-badge&labelColor=161B22" alt="Focus Agent Portability" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Discipline-Governed%20AI-30363D?style=for-the-badge&labelColor=161B22" alt="Discipline Governed AI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based-New%20York-30363D?style=for-the-badge&labelColor=161B22" alt="Based New York" />
 </p>
 
-<p align="center">
-  <sub>
-    <strong>↓</strong> Spec-first · Verifiable · Replayable · Open <strong>↓</strong>
-  </sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/stars/NickAiNYC/infini?style=social&label=Star%20on%20GitHub" alt="GitHub stars" /></a>
+<p>
+  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/stars/NickAiNYC/infini?style=social&label=GitHub" alt="GitHub stars" /></a>
   &nbsp;&nbsp;
   <a href="https://pypi.org/project/infini-cli/"><img src="https://img.shields.io/pypi/v/infini-cli?style=social&label=PyPI" alt="PyPI version" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/NickAiNYC/infini/actions"><img src="https://img.shields.io/github/actions/workflow/status/NickAiNYC/infini/ci.yml?style=social&label=CI" alt="CI status" /></a>
 </p>
 
-
-<br/><br/>
-
-<p>
-  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/badge/Featured-INFINI-25E587?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Featured INFINI" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Mission-Agent%20Portability-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Mission Agent Portability" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Discipline-Governed%20AI-7DD3FC?style=for-the-badge&labelColor=0D1117" alt="Discipline Governed AI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Based-New%20York-25E587?style=for-the-badge&labelColor=0D1117" alt="Based New York" />
-</p>
-
-<br/>
-
 [**INFINI**](https://github.com/NickAiNYC/infini) · [PyPI](https://pypi.org/project/infini-cli/) · [Scrutexity](https://scrutexity.com) · [X](https://x.com/nickaltstein) · [LinkedIn](https://linkedin.com/in/nicklatstein)
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Production%20Ready-25E587?style=for-the-badge&labelColor=0D1117" alt="Production Ready" />
-<img src="https://img.shields.io/badge/Conformance-8%2F8%20Passing-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Conformance 8/8 Passing" />
-<img src="https://img.shields.io/badge/Tests-20%2F20%20Passing-7DD3FC?style=for-the-badge&labelColor=0D1117" alt="Tests 20/20 Passing" />
+<img src="https://img.shields.io/badge/Status-Production%20Ready-238636?style=for-the-badge&labelColor=161B22" alt="Status Production Ready" />
+<img src="https://img.shields.io/badge/Conformance-8%2F8%20Passing-30363D?style=for-the-badge&labelColor=161B22" alt="Conformance 8/8 Passing" />
+<img src="https://img.shields.io/badge/Tests-20%2F20%20Passing-30363D?style=for-the-badge&labelColor=161B22" alt="Tests 20/20 Passing" />
 
 </div>
 
@@ -103,7 +80,7 @@ Write once. Run anywhere. Inspect everything. Replay anything.
 
 ## The Work: INFINI
 
-**INFINI is the Docker moment for agents.**
+**INFINI is the standard layer for portable autonomous work.**
 
 It turns autonomous work into a portable Loopfile: define the loop once, execute it through different runtimes, verify the result, and replay the trace when the system needs to be debugged.
 
@@ -130,12 +107,12 @@ infini inspect runs/latest/</code></pre>
       <br/>
       <h3>Production Stats</h3>
       <ul>
-        <li>📦 <strong>PyPI:</strong> infini-cli 0.1.1</li>
-        <li>✅ <strong>Conformance:</strong> 8/8 passing</li>
-        <li>🧪 <strong>Tests:</strong> 20/20 passing</li>
-        <li>🔌 <strong>Adapters:</strong> 7 — 2 certified, 5 community</li>
-        <li>🧠 <strong>Memory:</strong> FTS5 with 96% retrieval</li>
-        <li>🚀 <strong>Infra:</strong> $0 — SQLite only</li>
+        <li><strong>PyPI:</strong> infini-cli 0.1.1</li>
+        <li><strong>Conformance:</strong> 8/8 passing</li>
+        <li><strong>Tests:</strong> 20/20 passing</li>
+        <li><strong>Adapters:</strong> 7 — 2 certified, 5 community</li>
+        <li><strong>Memory:</strong> FTS5 with 96% retrieval</li>
+        <li><strong>Infra:</strong> $0 — SQLite only</li>
       </ul>
     </td>
   </tr>
@@ -144,18 +121,18 @@ infini inspect runs/latest/</code></pre>
 <div align="center">
 
 <a href="https://github.com/NickAiNYC/infini">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NickAiNYC&repo=infini&theme=github_dark&hide_border=true&title_color=25E587&icon_color=00D4FF&text_color=C9D1D9&bg_color=0D1117" alt="Pinned INFINI repository" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NickAiNYC&repo=infini&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=8B949E&text_color=C9D1D9&bg_color=0D1117" alt="Pinned INFINI repository" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/stars/NickAiNYC/infini?style=for-the-badge&label=Stars&color=25E587&labelColor=0D1117&logo=github" alt="INFINI stars" /></a>
+<a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/stars/NickAiNYC/infini?style=for-the-badge&label=Stars&color=30363D&labelColor=161B22&logo=github&logoColor=white" alt="INFINI stars" /></a>
 &nbsp;
-<a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/forks/NickAiNYC/infini?style=for-the-badge&label=Forks&color=00D4FF&labelColor=0D1117&logo=github" alt="INFINI forks" /></a>
+<a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/forks/NickAiNYC/infini?style=for-the-badge&label=Forks&color=30363D&labelColor=161B22&logo=github&logoColor=white" alt="INFINI forks" /></a>
 &nbsp;
-<a href="https://pypi.org/project/infini-cli/"><img src="https://img.shields.io/pypi/v/infini-cli?style=for-the-badge&label=PyPI&color=25E587&labelColor=0D1117&logo=pypi&logoColor=white" alt="PyPI version" /></a>
+<a href="https://pypi.org/project/infini-cli/"><img src="https://img.shields.io/pypi/v/infini-cli?style=for-the-badge&label=PyPI&color=30363D&labelColor=161B22&logo=pypi&logoColor=white" alt="PyPI version" /></a>
 &nbsp;
-<a href="https://github.com/NickAiNYC/infini/blob/main/spec/loopfile-v1.md"><img src="https://img.shields.io/badge/Spec-Loopfile%20v1.0-00D4FF?style=for-the-badge&labelColor=0D1117" alt="Loopfile v1.0" /></a>
+<a href="https://github.com/NickAiNYC/infini/blob/main/spec/loopfile-v1.md"><img src="https://img.shields.io/badge/Spec-Loopfile%20v1.0-30363D?style=for-the-badge&labelColor=161B22" alt="Loopfile v1.0" /></a>
 
 </div>
 
@@ -203,19 +180,19 @@ Loopfile → Validation → Engine → Adapter → Execution → Trace → Repla
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🏗️ Open Standards</h3>
+      <h3>Open Standards</h3>
       <p>Specs, schemas, conformance tests, certification paths, adapter SDKs, registries, and documentation that other builders can extend.</p>
-      <p><sub>→ INFINI Spec v1.0</sub></p>
+      <p><sub>INFINI Spec v1.0</sub></p>
     </td>
     <td width="33%" valign="top">
-      <h3>⚖️ Governed Agents</h3>
+      <h3>Governed Agents</h3>
       <p>Agent loops with verification, policy boundaries, audit trails, replay, budget controls, escalation logic, and failure visibility.</p>
-      <p><sub>→ Scrutexity, AuditGPT</sub></p>
+      <p><sub>Scrutexity · AuditGPT</sub></p>
     </td>
     <td width="33%" valign="top">
-      <h3>🔐 Trust Infrastructure</h3>
+      <h3>Trust Infrastructure</h3>
       <p>Claim intelligence, AI visibility systems, proof assets, and workflows for markets where public claims need evidence.</p>
-      <p><sub>→ Contento by Scrutexity</sub></p>
+      <p><sub>Contento by Scrutexity</sub></p>
     </td>
   </tr>
 </table>
@@ -225,15 +202,12 @@ Loopfile → Validation → Engine → Adapter → Execution → Trace → Repla
 ## Engineering Principles
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║  Spec first. Demo second. Hype last.                            ║
-║  Readable artifacts beat magic.                                 ║
-║  Every loop needs a verifier.                                   ║
-║  Every verifier needs a trace.                                  ║
-║  Every trace should be replayable.                              ║
-║  Zero infrastructure is a feature, not a limitation.            ║
-║  SQLite is the most underrated database in the world.           ║
-╚══════════════════════════════════════════════════════════════════╝
+Spec first.
+Readable artifacts over opaque magic.
+Every loop needs a verifier.
+Every verifier needs a trace.
+Every trace should be replayable.
+Zero infrastructure is a feature.
 ```
 
 I build systems that are understandable under pressure: when a demo fails, when an agent drifts, when a customer asks why, when a regulator asks for proof, or when a contributor wants to extend the standard.
@@ -248,14 +222,14 @@ I build systems that are understandable under pressure: when a demo fails, when 
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Agent%20Loops-25E587?style=flat-square&labelColor=0D1117" alt="Agent Loops" />
-<img src="https://img.shields.io/badge/Loopfile%20YAML-00D4FF?style=flat-square&labelColor=0D1117" alt="Loopfile YAML" />
-<img src="https://img.shields.io/badge/Adapter%20SDK-7DD3FC?style=flat-square&labelColor=0D1117" alt="Adapter SDK" />
-<img src="https://img.shields.io/badge/Trace%20Replay-25E587?style=flat-square&labelColor=0D1117" alt="Trace Replay" />
-<img src="https://img.shields.io/badge/Observatory-00D4FF?style=flat-square&labelColor=0D1117" alt="Observatory" />
-<img src="https://img.shields.io/badge/FTS5%20Memory-7DD3FC?style=flat-square&labelColor=0D1117" alt="FTS5 Memory" />
-<img src="https://img.shields.io/badge/MCP%20Runtime-25E587?style=flat-square&labelColor=0D1117" alt="MCP Runtime" />
-<img src="https://img.shields.io/badge/Governance%20as%20Code-00D4FF?style=flat-square&labelColor=0D1117" alt="Governance as Code" />
+<img src="https://img.shields.io/badge/Agent%20Loops-30363D?style=flat-square&labelColor=161B22" alt="Agent Loops" />
+<img src="https://img.shields.io/badge/Loopfile%20YAML-30363D?style=flat-square&labelColor=161B22" alt="Loopfile YAML" />
+<img src="https://img.shields.io/badge/Adapter%20SDK-30363D?style=flat-square&labelColor=161B22" alt="Adapter SDK" />
+<img src="https://img.shields.io/badge/Trace%20Replay-30363D?style=flat-square&labelColor=161B22" alt="Trace Replay" />
+<img src="https://img.shields.io/badge/Observatory-30363D?style=flat-square&labelColor=161B22" alt="Observatory" />
+<img src="https://img.shields.io/badge/FTS5%20Memory-30363D?style=flat-square&labelColor=161B22" alt="FTS5 Memory" />
+<img src="https://img.shields.io/badge/MCP%20Runtime-30363D?style=flat-square&labelColor=161B22" alt="MCP Runtime" />
+<img src="https://img.shields.io/badge/Governance%20as%20Code-30363D?style=flat-square&labelColor=161B22" alt="Governance as Code" />
 
 </div>
 
@@ -287,7 +261,7 @@ I build systems that are understandable under pressure: when a demo fails, when 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📦 Shipped</h3>
+      <h3>Shipped</h3>
       <ul>
         <li><strong>INFINI CLI</strong> — PyPI package with 8 commands, 20 tests, 8/8 conformance</li>
         <li><strong>Loopfile Spec v1.0</strong> — open standard for portable agent loops</li>
@@ -299,7 +273,7 @@ I build systems that are understandable under pressure: when a demo fails, when 
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🔨 Building</h3>
+      <h3>Building</h3>
       <ul>
         <li><strong>Loop Registry</strong> — reusable loops, skills, and patterns</li>
         <li><strong>Community Adapters</strong> — LangGraph, CrewAI, Mastra, Goose, Codex</li>
@@ -317,13 +291,13 @@ I build systems that are understandable under pressure: when a demo fails, when 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NickAiNYC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=25E587&icon_color=00D4FF&text_color=C9D1D9&ring_color=25E587" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=NickAiNYC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=3FB950&icon_color=8B949E&text_color=C9D1D9&ring_color=3FB950" height="170" alt="GitHub stats" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NickAiNYC&theme=github-dark-blue&hide_border=true&background=0D1117&ring=25E587&fire=00D4FF&currStreakLabel=25E587&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" height="170" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NickAiNYC&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=C9D1D9&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" height="170" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NickAiNYC&bg_color=0D1117&color=25E587&line=00D4FF&point=FFFFFF&area=true&area_color=25E587&hide_border=true&custom_title=INFINI%20Shipping%20Graph%20%E2%80%94%20June%202026" width="100%" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NickAiNYC&bg_color=0D1117&color=C9D1D9&line=3FB950&point=8B949E&area=true&area_color=161B22&hide_border=true&custom_title=INFINI%20Shipping%20Graph" width="100%" alt="GitHub activity graph" />
 
 </div>
 
@@ -360,21 +334,21 @@ I'm building the standard layer for autonomous work — infrastructure that make
 **Building the infrastructure layer for autonomous work.**
 
 <p>
-  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/badge/⭐%20Star%20INFINI-25E587?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Star INFINI" /></a>
+  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/badge/Star-INFINI-30363D?style=for-the-badge&labelColor=161B22&logo=github&logoColor=white" alt="Star INFINI" /></a>
   &nbsp;
-  <a href="https://pypi.org/project/infini-cli/"><img src="https://img.shields.io/badge/📦%20PyPI-00D4FF?style=for-the-badge&labelColor=0D1117&logo=pypi&logoColor=white" alt="PyPI" /></a>
+  <a href="https://pypi.org/project/infini-cli/"><img src="https://img.shields.io/badge/PyPI-infini--cli-30363D?style=for-the-badge&labelColor=161B22&logo=pypi&logoColor=white" alt="PyPI" /></a>
   &nbsp;
-  <a href="https://scrutexity.com"><img src="https://img.shields.io/badge/🔍%20Scrutexity-7DD3FC?style=for-the-badge&labelColor=0D1117&logo=safari&logoColor=white" alt="Scrutexity" /></a>
+  <a href="https://scrutexity.com"><img src="https://img.shields.io/badge/Scrutexity-Governed%20Growth-30363D?style=for-the-badge&labelColor=161B22" alt="Scrutexity" /></a>
   &nbsp;
-  <a href="https://x.com/nickaltstein"><img src="https://img.shields.io/badge/🐦%20X-000000?style=for-the-badge&labelColor=0D1117&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/nickaltstein"><img src="https://img.shields.io/badge/X-@nickaltstein-30363D?style=for-the-badge&labelColor=161B22&logo=x&logoColor=white" alt="X" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/nicklatstein"><img src="https://img.shields.io/badge/🔗%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/nicklatstein"><img src="https://img.shields.io/badge/LinkedIn-Nick%20Latstein-30363D?style=for-the-badge&labelColor=161B22&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=NickAiNYC&style=for-the-badge&color=25E587&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=NickAiNYC&style=for-the-badge&color=30363D&labelColor=161B22&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:00D4FF,70:25E587,100:0D1117&height=120&section=footer&text=Portable%20Agents%20%E2%80%A2%20Verifiable%20Loops%20%E2%80%A2%20Open%20Standards&fontSize=18&fontColor=C9D1D9&fontAlignY=70&animation=fadeIn" width="100%" alt="footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:30363D,100:238636&height=110&section=footer&text=Portable%20Agents%20%E2%80%A2%20Verifiable%20Loops%20%E2%80%A2%20Open%20Standards&fontSize=18&fontColor=C9D1D9&fontAlignY=70&animation=fadeIn" width="100%" alt="footer banner" />
 
 </div>
