@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--              NICK AI · THE INFRASTRUCTURE LAYER                  -->
+<!--              NICKNYC · THE INFRASTRUCTURE LAYER                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <picture>
@@ -12,17 +12,29 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:30363D,50:238636,100:0D1117&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0D1117,50:30363D,100:0D1117&section=header" width="100%" alt="divider" />
 
 <br/>
 
-<!-- Raised closer to the banner -->
-<img src="assets/nickai-tag.png" alt="NICKNYC" width="540" />
+<!-- NICKNYC raised closer to the banner -->
+<img src="assets/nickai-tag.png" alt="NICKNYC" width="520" />
 
-<br/>
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/%E2%88%9E-INFINI-161B22?style=for-the-badge&labelColor=0D1117&color=161B22" alt="INFINI logo" />
+<!-- Minimal INFINI mark. Kept monochrome for professional rendering. -->
+<table>
+  <tr>
+    <td align="center">
+      <pre>
+╭────────────────────────────────────────╮
+│                  ∞                     │
+│                INFINI                  │
+│     Portable Agent Infrastructure      │
+╰────────────────────────────────────────╯
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ### Building the Standard Layer for Autonomous Work
 
@@ -31,7 +43,7 @@
 <br/>
 
 <a href="https://github.com/NickAiNYC/infini">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2600&pause=1200&color=C9D1D9&center=true&vCenter=true&width=920&lines=Open+standard+for+agent+portability.;Write+agent+logic+once.+Run+it+anywhere.;Validate.+Trace.+Replay.;Spec-first+infrastructure+for+autonomous+work." alt="Professional typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=1200&color=C9D1D9&center=true&vCenter=true&width=880&lines=Portable+agent+infrastructure.;A+spec-first+runtime+layer+for+autonomous+work.;Loopfiles.+Adapters.+Traces.+Replay.;Built+for+verification%2C+portability%2C+and+governance." alt="Professional typing animation" />
 </a>
 
 <br/><br/>
@@ -47,18 +59,20 @@
 </p>
 
 <p>
-  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/stars/NickAiNYC/infini?style=social&label=GitHub" alt="GitHub stars" /></a>
-  &nbsp;&nbsp;
-  <a href="https://pypi.org/project/infini-cli/"><img src="https://img.shields.io/pypi/v/infini-cli?style=social&label=PyPI" alt="PyPI version" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/NickAiNYC/infini/actions"><img src="https://img.shields.io/github/actions/workflow/status/NickAiNYC/infini/ci.yml?style=social&label=CI" alt="CI status" /></a>
+  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/stars/NickAiNYC/infini?style=flat-square&label=Stars&color=30363D&labelColor=161B22&logo=github&logoColor=white" alt="INFINI stars" /></a>
+  &nbsp;
+  <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/forks/NickAiNYC/infini?style=flat-square&label=Forks&color=30363D&labelColor=161B22&logo=github&logoColor=white" alt="INFINI forks" /></a>
+  &nbsp;
+  <a href="https://pypi.org/project/infini-cli/"><img src="https://img.shields.io/pypi/v/infini-cli?style=flat-square&label=PyPI&color=30363D&labelColor=161B22&logo=pypi&logoColor=white" alt="PyPI version" /></a>
+  &nbsp;
+  <a href="https://github.com/NickAiNYC/infini/blob/main/spec/loopfile-v1.md"><img src="https://img.shields.io/badge/Spec-Loopfile%20v1.0-30363D?style=flat-square&labelColor=161B22" alt="Loopfile v1.0" /></a>
 </p>
 
 [**INFINI**](https://github.com/NickAiNYC/infini) · [PyPI](https://pypi.org/project/infini-cli/) · [Scrutexity](https://scrutexity.com) · [X](https://x.com/nickaltstein) · [LinkedIn](https://linkedin.com/in/nicklatstein)
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Production%20Ready-238636?style=for-the-badge&labelColor=161B22" alt="Status Production Ready" />
+<img src="https://img.shields.io/badge/Status-Production%20Ready-30363D?style=for-the-badge&labelColor=161B22" alt="Status Production Ready" />
 <img src="https://img.shields.io/badge/Conformance-8%2F8%20Passing-30363D?style=for-the-badge&labelColor=161B22" alt="Conformance 8/8 Passing" />
 <img src="https://img.shields.io/badge/Tests-20%2F20%20Passing-30363D?style=for-the-badge&labelColor=161B22" alt="Tests 20/20 Passing" />
 
@@ -120,19 +134,26 @@ infini inspect runs/latest/</code></pre>
 
 <div align="center">
 
-<a href="https://github.com/NickAiNYC/infini">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NickAiNYC&repo=infini&theme=github_dark&hide_border=true&title_color=3FB950&icon_color=8B949E&text_color=C9D1D9&bg_color=0D1117" alt="Pinned INFINI repository" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/stars/NickAiNYC/infini?style=for-the-badge&label=Stars&color=30363D&labelColor=161B22&logo=github&logoColor=white" alt="INFINI stars" /></a>
-&nbsp;
-<a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/forks/NickAiNYC/infini?style=for-the-badge&label=Forks&color=30363D&labelColor=161B22&logo=github&logoColor=white" alt="INFINI forks" /></a>
-&nbsp;
-<a href="https://pypi.org/project/infini-cli/"><img src="https://img.shields.io/pypi/v/infini-cli?style=for-the-badge&label=PyPI&color=30363D&labelColor=161B22&logo=pypi&logoColor=white" alt="PyPI version" /></a>
-&nbsp;
-<a href="https://github.com/NickAiNYC/infini/blob/main/spec/loopfile-v1.md"><img src="https://img.shields.io/badge/Spec-Loopfile%20v1.0-30363D?style=for-the-badge&labelColor=161B22" alt="Loopfile v1.0" /></a>
+<!-- Custom repository card replaces the default pinned-card renderer for cleaner monochrome styling. -->
+<table>
+  <tr>
+    <td width="720" valign="top">
+      <h3>
+        <a href="https://github.com/NickAiNYC/infini">INFINI</a>
+      </h3>
+      <p><strong>Portable agent infrastructure for Loopfiles, adapters, traces, replay, and governed autonomous systems.</strong></p>
+      <p>
+        <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/stars/NickAiNYC/infini?style=flat-square&label=Stars&color=30363D&labelColor=161B22&logo=github&logoColor=white" alt="INFINI stars" /></a>
+        &nbsp;
+        <a href="https://github.com/NickAiNYC/infini"><img src="https://img.shields.io/github/forks/NickAiNYC/infini?style=flat-square&label=Forks&color=30363D&labelColor=161B22&logo=github&logoColor=white" alt="INFINI forks" /></a>
+        &nbsp;
+        <a href="https://pypi.org/project/infini-cli/"><img src="https://img.shields.io/pypi/v/infini-cli?style=flat-square&label=PyPI&color=30363D&labelColor=161B22&logo=pypi&logoColor=white" alt="PyPI version" /></a>
+        &nbsp;
+        <a href="https://github.com/NickAiNYC/infini/blob/main/spec/loopfile-v1.md"><img src="https://img.shields.io/badge/Spec-Loopfile%20v1.0-30363D?style=flat-square&labelColor=161B22" alt="Loopfile v1.0" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -291,13 +312,13 @@ I build systems that are understandable under pressure: when a demo fails, when 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NickAiNYC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=3FB950&icon_color=8B949E&text_color=C9D1D9&ring_color=3FB950" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=NickAiNYC&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=C9D1D9&icon_color=8B949E&text_color=C9D1D9&ring_color=8B949E" height="170" alt="GitHub stats" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NickAiNYC&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3FB950&fire=3FB950&currStreakLabel=C9D1D9&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" height="170" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NickAiNYC&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B949E&fire=8B949E&currStreakLabel=C9D1D9&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" height="170" alt="GitHub streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NickAiNYC&bg_color=0D1117&color=C9D1D9&line=3FB950&point=8B949E&area=true&area_color=161B22&hide_border=true&custom_title=INFINI%20Shipping%20Graph" width="100%" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NickAiNYC&bg_color=0D1117&color=C9D1D9&line=8B949E&point=8B949E&area=true&area_color=161B22&hide_border=true&custom_title=INFINI%20Shipping%20Graph" width="100%" alt="GitHub activity graph" />
 
 </div>
 
@@ -349,6 +370,6 @@ I'm building the standard layer for autonomous work — infrastructure that make
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:30363D,100:238636&height=110&section=footer&text=Portable%20Agents%20%E2%80%A2%20Verifiable%20Loops%20%E2%80%A2%20Open%20Standards&fontSize=18&fontColor=C9D1D9&fontAlignY=70&animation=fadeIn" width="100%" alt="footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:30363D,100:0D1117&height=110&section=footer&text=Portable%20Agents%20%E2%80%A2%20Verifiable%20Loops%20%E2%80%A2%20Open%20Standards&fontSize=18&fontColor=C9D1D9&fontAlignY=70&animation=fadeIn" width="100%" alt="footer banner" />
 
 </div>
