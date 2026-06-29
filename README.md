@@ -363,7 +363,7 @@ I'm building the standard layer for autonomous work — infrastructure that make
   &nbsp;
   <a href="https://x.com/nickaltstein"><img src="https://img.shields.io/badge/X-@nickaltstein-30363D?style=for-the-badge&labelColor=161B22&logo=x&logoColor=white" alt="X" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/nicklatstein"><img src="https://img.shields.io/badge/LinkedIn-Nick%20Latstein-30363D?style=for-the-badge&labelColor=161B22&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/nickaltstein"><img src="https://img.shields.io/badge/LinkedIn-Nick%20Latstein-30363D?style=for-the-badge&labelColor=161B22&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=NickAiNYC&style=for-the-badge&color=30363D&labelColor=161B22&label=PROFILE+VIEWS" alt="Profile views" />
