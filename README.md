@@ -26,7 +26,7 @@ My work focuses on a practical challenge: making agent execution secure, underst
 - **Stack:** Python · SQLite · YAML · pytest · GitHub Actions · OpenTelemetry
 - **Links:** [Source Code](https://github.com/NickAiNYC/infini) · [Conformance Tests](https://github.com/NickAiNYC/infini/tree/main/tests/conformance) · [Benchmarks](https://github.com/NickAiNYC/infini/blob/main/benchmarks/results.json)
 - **Current Status:** Working reference engine; external runtime adapters remain experimental.
-- **Verification & Evidence:** 56 unit/integration tests and 8/8 passing conformance suite tests (`tests/conformance/`). Measured benchmark: 100.0% replay determinism across 100 consecutive runs and 1.846 ms per-step overhead on Apple M4 hardware (`benchmarks/results.json`). Published on PyPI as `infini-cli 0.2.0`.
+- **Verification & Evidence:** 56 unit and integration tests (`pytest cli/tests`) plus 8 core workflow conformance test cases (`tests/conformance/`). Measured benchmark: 100.0% replay determinism across 100 consecutive runs and 1.846 ms per-step overhead on Apple M4 hardware (`benchmarks/results.json`). Published on PyPI as `infini-cli 0.2.0`.
 
 ---
 
@@ -50,13 +50,12 @@ My work focuses on a practical challenge: making agent execution secure, underst
 
 - Built an end-to-end quantitative pricing terminal evaluating full predictive distributions for NFL receiving props using compound Negative Binomial and Gamma formulations.
 - Designed market-anchored shrinkage against sharp devigged closing consensus to temper model variance during uncalibrated regimes.
-- Implemented cryptographic SHA-256 ingestion receipts on market odds snapshots to guarantee immutable input provenance and prevent retroactive line tampering.
-- Enforced freeze-slate cutoff pipelines (`freeze_slate.py`) that strictly lock inputs prior to game kickoff, eliminating lookahead data leakage.
+- Implemented SHA-256 integrity checks for recorded market snapshots and prospective cutoff validation to support reproducible evaluation and detect potential data leakage.
 - Maintained an unedited public calibration record, including transparent publication of negative holdout results (e.g., Week 1 Brier skill deficit of -12.51%) and automated commercial gating that suspends monetization until reaching statistical significance ($N \ge 600$).
-- **Integrity Note:** Cryptographic receipts guarantee data ingestion integrity, timestamp immutability, and reproducible audits—they do not guarantee predictive market edge.
+- **Integrity Note:** Cryptographic checksums verify payload integrity of recorded market snapshots, while prospective cutoffs and automated test suites help detect lookahead leakage—they do not guarantee predictive market edge.
 - **Stack:** Python · NumPy · SciPy · Pandas · FastAPI / Starlette · Vanilla JS / CSS · pytest
 - **Links:** [Source Code](https://github.com/NickAiNYC/Propstein) · [Live Terminal](https://propstein.com) · [Audit Protocol](https://propstein.com/performance/)
-- **Verification & Evidence:** 562 passing unit and integration tests across data leakage, odds adapter ingestion, line history provenance, feature cutoffs, and paired scoring. Deployed live at [propstein.com](https://propstein.com).
+- **Verification & Evidence:** Automated test suites spanning Python (542 tests) and Node.js (294 tests) covering data leakage, odds adapter ingestion, line history provenance, feature cutoffs, and paired scoring. Deployed live at [propstein.com](https://propstein.com).
 
 ---
 
